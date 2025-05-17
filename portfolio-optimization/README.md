@@ -62,7 +62,7 @@ The project uses a provided Excel file that includes:
 
 To replicate the analysis:
 
-1. Clone this repository and open `script.eng.hm3.R` in R or RStudio  
+1. Clone this repository and open `portfolio_optimization_eurostoxx.R` in R or RStudio  
 2. Ensure the following R packages are installed:  
    `quantmod`, `astsa`, `readxl`, `tidyverse`, `fImport`, `fBasics`, `rugarch`, `roll`, `distr`, `PortfolioAnalytics`, `DEoptim`, `ROI`  
 3. Place the Excel data file `DatiHW3.xlsx` in the same directory  
