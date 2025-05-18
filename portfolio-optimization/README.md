@@ -52,9 +52,17 @@ The project uses a provided Excel file that includes:
 
 ---
 
-### Files Included
+### Files included
 
-- _To be added at the end of the project_
+- `scripts/portfolio_optimization_eurostoxx.R`  
+  Full R script performing all portfolio optimization analyses, including efficient frontiers, risk modeling, and performance tests.
+
+- `data/DatiHW3.xlsx`  
+  Excel file containing raw data: monthly stock prices, EuroStoxx 600 index values, Euribor risk-free rates, and sector classifications.
+
+- `docs/portfolio_optimization_report.pdf`  
+  Final report summarizing the methodology, statistical techniques, key results, visualizations, and conclusions from the analysis.
+
 
 ---
 
