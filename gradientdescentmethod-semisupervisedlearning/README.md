@@ -22,11 +22,8 @@ These methods are assessed in terms of convergence behavior, theoretical propert
 - `GradientDescentMethods_SemisupervisedLearning_Report.pdf`  
   Final report detailing the methodology, theoretical derivations, algorithmic comparisons, and empirical evaluations.
 
-- `GradientDescentMethods_SemisupervisedLearning_TheoreticalApproach.ipynb`  
-  Jupyter notebook implementing all optimization algorithms on **synthetic data** (randomly generated 2D points).
-
-- `GradientDescentMethods_SemisupervisedLearning_RealData_.ipynb`  
-  Jupyter notebook applying the same algorithms to the **Breast Cancer dataset**, including preprocessing and classification accuracy evaluation.
+- `GradientDescentMethods_SemisupervisedLearning.py`  
+  Python script implementing all optimization algorithms, applied to both **synthetic** and **real-world** data.
 
 ---
 
@@ -53,10 +50,11 @@ These methods are assessed in terms of convergence behavior, theoretical propert
 
 ### How to Run
 
-1. Clone the repository and open either `.ipynb` file in **Jupyter Notebook**  
+1. Clone the repository and open the `GradientDescentMethods_SemisupervisedLearning.py` file  
 2. Make sure you have the required Python packages installed:  
    `numpy`, `scipy`, `matplotlib`, `sklearn`, `pandas`  
-3. Run all cells to reproduce synthetic experiments and real-data classification  
+3. Run the script using a Python environment or IDE of your choice (e.g., VSCode, PyCharm, or terminal)  
+4. The script is structured with clearly separated sections for synthetic data and real data experiments  
 
 ---
 
@@ -64,3 +62,4 @@ These methods are assessed in terms of convergence behavior, theoretical propert
 
 - Breast Cancer Wisconsin (Diagnostic) dataset (UCI Machine Learning Repository)  
 - Gradient descent and coordinate optimization techniques
+
