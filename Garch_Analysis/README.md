@@ -64,13 +64,13 @@ The dataset consists of **daily adjusted closing prices** downloaded from **Refi
 
 ### Files Included
 
-- `garch_analysis_sbux_wmt.R`  
+- `code/garch_analysis_sbux_wmt.R`  
   Main R script containing the full analysis: data preprocessing, GARCH model estimation, forecasting, model evaluation, and rolling correlation computation.
 
-- `Price_History_SBUX.O_WMT.xlsx`  
+- `data/Price_History_SBUX.O_WMT.xlsx`  
   Excel file with historical price data for Starbucks (SBUX.O) and Walmart (WMT).
 
-- `Garch_Analysis_Report.pdf`  
+- `docs/Garch_Analysis_Report.pdf`  
   Final project report summarizing the methodology, empirical results, figures, and comments.
 
 ---
