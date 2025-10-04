@@ -1,6 +1,4 @@
-# Volatility Modeling with GARCH: Starbucks and Walmart
-
-**University Project – Statistical Methods for Finance**  
+# Modeling and Forecasting Volatility of Financial Returns: a GARCH Analysis of Starbucks and Walmart
 
 ---
 
@@ -72,7 +70,7 @@ The dataset consists of **daily adjusted closing prices** downloaded from **Refi
 - `Price_History_SBUX.O_WMT.xlsx`  
   Excel file with historical price data for Starbucks (SBUX.O) and Walmart (WMT).
 
-- `garch_analysis_report.pdf`  
+- `Garch_Analysis_Report.pdf`  
   Final project report summarizing the methodology, empirical results, figures, and comments.
 
 ---
