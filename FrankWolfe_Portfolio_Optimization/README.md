@@ -1,4 +1,4 @@
-# First-Order Optimization for Portfolio Selection  
+# FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization 
 
 ---
 
