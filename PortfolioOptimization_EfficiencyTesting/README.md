@@ -1,9 +1,5 @@
 # Portfolio Optimization and Efficiency Testing  
 
-**University Project – Statistical Methods for Finance**  
-
----
-
 ### Project Overview  
 
 This project investigates **portfolio optimization and efficiency testing** within the framework of **Modern Portfolio Theory** (Markowitz, 1952).  
