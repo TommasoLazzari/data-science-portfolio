@@ -52,10 +52,10 @@ The dataset is contained in:
 
 ### Files Included  
 
-- `PortfolioOptimization_EfficiencyTesting_Report.pdf`  
+- `docs/PortfolioOptimization_EfficiencyTesting_Report.pdf`  
   Final report including theoretical background, methodology, empirical results, and visualizations.  
 
-- `PortfolioOptimization_EfficiencyTesting_code.R`  
+- `code/PortfolioOptimization_EfficiencyTesting_code.R`  
   R script implementing portfolio optimization routines, efficiency tests, and graphical outputs.  
 
 - `data/DatiHW3.xlsx`  
