@@ -16,7 +16,8 @@ Welcome! This repository showcases a collection of my data science projects. Eac
 - **Gradient Descent Methods for Semi-Supervised Learning (2025)**
   - Description: Comparative analysis of gradient-based optimization methods (fixed step, Armijo rule, block coordinate descent, coordinate minimization) on synthetic and real data within a semi-supervised learning framework.  
   - [View Project](./gradientdescentmethod-semisupervisedlearning/README.md)
+    
 
--**FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)**
+- **FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)**
   - Description: Comparative analysis of the performances of the Porjected Gradient Method and the Frank-Wolfe Algorithm (and variants) on the Markowitz Portfolio Optimization Problem.
   - [View Project](./FrankWolfe_Portfolio_Optimization/README.md)
