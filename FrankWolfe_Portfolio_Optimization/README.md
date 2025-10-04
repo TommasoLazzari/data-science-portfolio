@@ -40,10 +40,10 @@ The algorithms were tested on weekly adjusted returns (dividend- and split-adjus
 
 ### Files included  
 
-- `report/FirstOrderOptimization_report.pdf`  
+- `docs/FrankWolfe_Portfolio_Optimization_Report.pdf`  
   Final report including theoretical background, algorithmic descriptions, results, and visualizations  
 
-- `code/ODS_project_code_G16.ipynb`  
+- `code/FrankWolfe_Portfolio_Optimization.ipynb`  
   Jupyter Notebook implementing FW, AFW, PFW, and PG, with empirical analysis on the datasets  
 
 - `data/FTSE100.xlsx`, `DowJones.xlsx`, `NASDAQ100.xlsx`, `SP500.xlsx`  
@@ -55,7 +55,7 @@ The algorithms were tested on weekly adjusted returns (dividend- and split-adjus
 
 To replicate the analysis:  
 
-1. Clone this repository and open `ODS_project_code_G16.ipynb` in Jupyter Notebook or JupyterLab  
+1. Clone this repository and open `FrankWolfe_Portfolio_Optimization.ipynb` in Jupyter Notebook or JupyterLab  
 2. Make sure the following Python packages are installed:  
    `numpy`, `pandas`, `matplotlib`, `scipy`, `cvxpy`, `time`  
 3. Place the Excel files from the `data/` folder in the same working directory  
