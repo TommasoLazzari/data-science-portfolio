@@ -13,9 +13,9 @@ Welcome! This repository showcases a collection of my data science projects. Eac
   - [View Project](./garch-analysis/README.md)
 
 
-- **Gradient Descent Methods for Semi-Supervised Learning (2025)**
-  - Description: Comparative analysis of gradient-based optimization methods (fixed step, Armijo rule, block coordinate descent, coordinate minimization) on synthetic and real data within a semi-supervised learning framework.  
-  - [View Project](./gradientdescentmethod-semisupervisedlearning/README.md)
+- **Gradient and Coordinate Descent Methods: Theory, Implementation, and Experimental Insights (2025)**
+  - Description: Comparative analysis of gradient-based optimization methods (fixed step, Armijo rule, block coordinate descent, coordinate minimization) on synthetic and real data.  
+  - [View Project](./Gradient_and_CoordinateDescentMethods/README.md)
     
 
 - **FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)**
