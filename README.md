@@ -21,14 +21,14 @@ Welcome! This repository showcases a collection of my data science projects. Eac
 - **FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)**
   - Description: Comparative analysis of the performances of the Porjected Gradient Method and the Frank-Wolfe Algorithm (and variants) on the Markowitz Portfolio Optimization Problem.
   - [View Project](./FrankWolfe_Portfolio_Optimization/README.md)
+    
+ 
+- **Explaining Gas Price Dynamics in Italy and Turkey (2026)**
+  - Description: Time series analysis of residential natural gas price dynamics in Italy and Turkey using explanatory econometric approach.
+  - [View Project](./GasPrice_TimeSeries/README.md)
 
 
 - **DMAGNet: an Interpretable Convolutional Neural Network for Galaxy Morphology Classification using Deep Dream (2026)**
   - Description: A convolutional neural network designed for galaxy morphology classification with a strong
 emphasis on model interpretability.
   - [View Project](./DMAGNet/README.md)
-
-
-- **Explaining Gas Price Dynamics in Italy and Turkey (2026)**
-  - Description: Time series analysis of residential natural gas price dynamics in Italy and Turkey using explanatory econometric approach.
-  - [View Project](./GasPrice_TimeSeries/README.md)
